@@ -1,0 +1,12 @@
+.icons {
+  height: 3.5rem;
+  width: 3.5rem;
+
+  fill: white;
+  cursor: pointer;
+  transition: all 0.2s ease-in;
+
+  &:hover {
+    fill: var(--color-primary-lime-green);
+  }
+}
